@@ -1,0 +1,10 @@
+# Generated audit output stays out of this docs repo.
+FULL-AUDIT-REPORT.md
+ACTION-PLAN.md
+SCHEMA-REPORT.md
+GEO-ANALYSIS.md
+LOCAL-SEO-ANALYSIS.md
+screenshots/
+*.pdf
+.venv/
+__pycache__/
